@@ -1,4 +1,4 @@
-# COMP 2522 Midterm 202130
+# COMP 2522 Midterm 202210
 
 Begin by filling out your information.
 
